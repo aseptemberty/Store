@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d90b632c-f0b3-4fed-95a8-ccdea4516c77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1irZzs15XcXfA4voYgsYVHyGHDn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d90b632c-f0b3-4fed-95a8-ccdea4516c77" name="Default Changelist" comment="" />
+      <created>1602667937271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602667937271</updated>
+      <workItem from="1602667938441" duration="12219000" />
+      <workItem from="1602754297990" duration="10923000" />
+      <workItem from="1602860025023" duration="10204000" />
+      <workItem from="1603099985685" duration="21392000" />
+      <workItem from="1603452979761" duration="2762000" />
+      <workItem from="1603616853355" duration="6992000" />
+      <workItem from="1603694568476" duration="28738000" />
+      <workItem from="1603872006932" duration="22577000" />
+      <workItem from="1603912523652" duration="312000" />
+      <workItem from="1603958831902" duration="14408000" />
+      <workItem from="1604065389633" duration="7967000" />
+      <workItem from="1604136328066" duration="13210000" />
+      <workItem from="1604427859975" duration="5904000" />
+      <workItem from="1604477389376" duration="24920000" />
+      <workItem from="1604648261915" duration="2482000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="257" y="196" width="424" height="484" key="FileChooserDialogImpl" timestamp="1602858769128">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="257" y="196" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1602858769128" />
+    <state x="299" y="142" width="824" height="508" key="IDE.errors.dialog" timestamp="1604074399436">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="299" y="142" width="824" height="508" key="IDE.errors.dialog/67.27.1299.741@67.27.1299.741" timestamp="1604074399436" />
+    <state x="380" y="175" key="run.anything.popup" timestamp="1604430218471">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="175" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1604430218471" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1604603255035">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1604603255035" />
+  </component>
+</project>
