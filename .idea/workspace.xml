@@ -4,23 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d90b632c-f0b3-4fed-95a8-ccdea4516c77" name="Default Changelist" comment="" />
+    <list default="true" id="d90b632c-f0b3-4fed-95a8-ccdea4516c77" name="Default Changelist" comment="relocate pages">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/catalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/product-page.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1irZzs15XcXfA4voYgsYVHyGHDn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -44,29 +66,18 @@
       <workItem from="1604136328066" duration="13210000" />
       <workItem from="1604427859975" duration="5904000" />
       <workItem from="1604477389376" duration="24920000" />
-      <workItem from="1604648261915" duration="2482000" />
+      <workItem from="1604648261915" duration="3108000" />
+      <workItem from="1605191829086" duration="148000" />
+      <workItem from="1611664360601" duration="1168000" />
+      <workItem from="1612357724477" duration="1355000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="257" y="196" width="424" height="484" key="FileChooserDialogImpl" timestamp="1602858769128">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state x="257" y="196" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1602858769128" />
-    <state x="299" y="142" width="824" height="508" key="IDE.errors.dialog" timestamp="1604074399436">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state x="299" y="142" width="824" height="508" key="IDE.errors.dialog/67.27.1299.741@67.27.1299.741" timestamp="1604074399436" />
-    <state x="380" y="175" key="run.anything.popup" timestamp="1604430218471">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state x="380" y="175" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1604430218471" />
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1604603255035">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1604603255035" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="relocate pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="relocate pages" />
   </component>
 </project>
